@@ -52,7 +52,90 @@ new Vue({
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/beer.mp3",
           url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
           favorited: true
+        },
+        
+        {
+          name: "Pasensya na",
+          artist: "Cueshe",
+          cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
+          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/pasensya na.mp3",
+          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          favorited: true
+        },
+        
+        {
+          name: "Ligaya",
+          artist: "Eraserheads",
+          cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
+          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/ligaya.mp3",
+          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          favorited: true
+        },
+        
+        {
+          name: "Ikaw nga",
+          artist: "South Border",
+          cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
+          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/ikaw nga.mp3",
+          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          favorited: true
+        },
+        
+        {
+          name: "Ikaw lamang",
+          artist: "Silent Sanctuary",
+          cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
+          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/ikaw lamang.mp3",
+          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          favorited: true
+        },
+        
+        {
+          name: "Bakit",
+          artist: "Cueshe",
+          cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
+          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/bakit.mp3",
+          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          favorited: true
+        },
+        
+        {
+          name: "Yakap sa dilim",
+          artist: "Orange & Lemons",
+          cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
+          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Yakap Sa Dilim.mp3",
+          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          favorited: true
+        },
+        
+        {
+          name: "Pano",
+          artist: "Zack Tabudlo",
+          cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
+          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Pano.mp3",
+          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          favorited: true
+        },
+        
+        {
+          name: "Nangangamba",
+          artist: "Zack Tabudlo",
+          cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
+          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Nangangamba.mp3",
+          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          favorited: true
+        },
+        
+        {
+          name: "Binibini",
+          artist: "Zack Tabudlo",
+          cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
+          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Binibini.mp3",
+          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          favorited: true
         }
+        
+        
       ],
       currentTrack: null,
       currentTrackIndex: 0,
