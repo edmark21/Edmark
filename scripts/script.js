@@ -28,6 +28,24 @@ new Vue({
         },
         
         {
+          name: "Ang Huling El Bimbo",
+          artist: "Eraserheads ",
+          cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
+          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/elbimbo.mp3",
+          url: "https://www.youtube.com/watch?v=UGB_Bsm5Unk",
+          favorited: false
+        },
+        
+        {
+          name: "Akin Ka Na Lang",
+          artist: "The Itchyworms",
+          cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
+          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Akin Ka Na Lang.mp3",
+          url: "https://www.youtube.com/watch?v=UGB_Bsm5Unk",
+          favorited: false
+        },
+        
+        {
           name: "Beer",
           artist: "The Itchyworms",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
