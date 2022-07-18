@@ -14,7 +14,7 @@ new Vue({
           artist: "Callalily",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Magbalik.mp3",
-          url: "https://www.youtube.com/watch?v=UGB_Bsm5Unk",
+          url: "https://www.google.com",
           favorited: false
         },
         
@@ -23,7 +23,7 @@ new Vue({
           artist: "Rico Blanco",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/antukin.mp3",
-          url: "https://www.youtube.com/watch?v=UGB_Bsm5Unk",
+          url: "https://www.google.com",
           favorited: false
         },
         
@@ -32,7 +32,7 @@ new Vue({
           artist: "Eraserheads ",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/elbimbo.mp3",
-          url: "https://www.youtube.com/watch?v=UGB_Bsm5Unk",
+          url: "https://www.google.com",
           favorited: false
         },
         
@@ -41,7 +41,7 @@ new Vue({
           artist: "The Itchyworms",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Akin Ka Na Lang.mp3",
-          url: "https://www.youtube.com/watch?v=UGB_Bsm5Unk",
+          url: "https://www.google.com",
           favorited: false
         },
         
@@ -59,7 +59,7 @@ new Vue({
           artist: "Cueshe",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/pasensya na.mp3",
-          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          url: "https://www.google.com",
           favorited: true
         },
         
@@ -68,7 +68,7 @@ new Vue({
           artist: "Eraserheads",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/ligaya.mp3",
-          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          url: "https://www.google.com",
           favorited: true
         },
         
@@ -77,7 +77,7 @@ new Vue({
           artist: "South Border",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/ikaw nga.mp3",
-          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          url: "https://www.google.com",
           favorited: true
         },
         
@@ -86,7 +86,7 @@ new Vue({
           artist: "Silent Sanctuary",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/ikaw lamang.mp3",
-          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          url: "https://www.google.com",
           favorited: true
         },
         
@@ -95,7 +95,7 @@ new Vue({
           artist: "Cueshe",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/bakit.mp3",
-          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          url: "https://www.google.com",
           favorited: true
         },
         
@@ -104,7 +104,7 @@ new Vue({
           artist: "Orange & Lemons",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Yakap Sa Dilim.mp3",
-          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          url: "https://www.google.com",
           favorited: true
         },
         
@@ -113,7 +113,7 @@ new Vue({
           artist: "Zack Tabudlo",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Pano.mp3",
-          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          url: "https://www.google.com",
           favorited: true
         },
         
@@ -122,7 +122,7 @@ new Vue({
           artist: "Zack Tabudlo",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Nangangamba.mp3",
-          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          url: "https://www.google.com",
           favorited: true
         },
         
@@ -131,7 +131,7 @@ new Vue({
           artist: "Zack Tabudlo",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Binibini.mp3",
-          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          url: "https://www.google.com",
           favorited: true
         },
         
@@ -140,7 +140,7 @@ new Vue({
           artist: "Eraserheads",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Magasin.mp3",
-          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          url: "https://www.google.com",
           favorited: true
         }
         
