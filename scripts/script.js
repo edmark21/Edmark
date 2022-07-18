@@ -19,10 +19,10 @@ new Vue({
         },
         
         {
-          name: "title",
-          artist: "artist",
+          name: "Antukin",
+          artist: "Rico Blanco",
           cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
-          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Magbalik.mp3",
+          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/antukin.mp3",
           url: "https://www.youtube.com/watch?v=UGB_Bsm5Unk",
           favorited: false
         },
