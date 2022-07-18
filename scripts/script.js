@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Magbalik",
           artist: "Callalily",
-          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Magbalik.mp3",
           url: "https://www.youtube.com/watch?v=UGB_Bsm5Unk",
           favorited: false
