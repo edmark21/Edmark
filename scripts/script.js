@@ -133,6 +133,15 @@ new Vue({
           source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Binibini.mp3",
           url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
           favorited: true
+        },
+        
+        {
+          name: "Magasin",
+          artist: "Eraserheads",
+          cover: "https://raw.githubusercontent.com/edmark21/Edmark/master/img/opm.jpg",
+          source: "https://raw.githubusercontent.com/edmark21/Edmark/master/mp3/Magasin.mp3",
+          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          favorited: true
         }
         
         
