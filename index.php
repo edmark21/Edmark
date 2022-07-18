@@ -13,7 +13,7 @@
       href="https://meyerweb.com/eric/tools/css/reset/reset.css"
     />
     <link rel="stylesheet" href="./css/main.css" />
-    <title>Nectar - Joji</title>
+    <title>Edmark's Playlist</title>
     <link rel="icon" type="image/x-icon" href="img/musiczyx.svg">
   </head>
   <body>
